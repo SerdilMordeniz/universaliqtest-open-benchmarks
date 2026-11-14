@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "studyUrl": "https://www.universaliqtest.com/ai-iq-test",
+  "recordedOn": "2026-11-14",
+  "prompt": "You are given one visual pattern-completion question. The upper panel contains the question; the lower panel contains eight answer choices labelled 1 through 8. Select the choice that best completes the missing part. Return a JSON object with exactly one field, \"option\", whose value is the chosen integer from 1 to 8. Do not include an explanation.",
+  "questions": 40,
+  "optionsPerQuestion": 8,
+  "imageSize": [
+    1152,
+    1552
+  ],
+  "context": "One fresh context per item; one user message; no tools, browsing, hints or answer key.",
+  "optionOrder": "Predeclared seeded balanced shuffle. Each original option appears five times at each displayed label across 40 items.",
+  "optionOrderSeed": "universaliqtest-full-2026-11-14-balanced-v1",
+  "baselineSettings": {
+    "protocolVersion": 3,
+    "answerFormat": "strict JSON schema: option integer 1-8",
+    "reasoningEffort": "medium",
+    "maxTokens": 8192,
+    "context": "fresh request per question",
+    "tools": "none",
+    "optionOrder": "seeded balanced shuffle; each original option appears five times at each label",
+    "optionOrderSeed": "universaliqtest-full-2026-11-14-balanced-v1",
+    "runsPerModel": 1,
+    "modelAnswerRetries": 0,
+    "transportRetries": 1,
+    "imageSize": [
+      1152,
+      1552
+    ]
+  },
+  "baselineModelVersions": [
+    {
+      "version": "google/gemini-4-carbon-20261110",
+      "provider": "Google AI Studio"
+    },
+    {
+      "version": "anthropic/claude-fable-5.2-20261109",
+      "provider": "Anthropic"
+    },
+    {
+      "version": "openai/gpt-6-astra-20260903",
+      "provider": "OpenAI"
+    }
+  ],
+  "scoring": "Map the returned display label back to its original option and grade offline with production key iq-40-2026-09:key-v1. Cutoffs count as unsuccessful slots, separately from wrong returned choices.",
+  "calibration": "Separate, ungraded selected-item development. No returned development answer is substituted into an original score. The last profile requested reasoning progress and discarded all reasoning text locally.",
+  "recovery": "Original run: one unanswered unbilled HTTP 503 retried identically. Initial calibration: one investigated unanswered unbilled timeout recovered with streaming; later unavailable slots retained without retry. Final progress profile: one attempt per selected question.",
+  "review": "Scores were cross-checked locally against the production grader; request/image hashes, timings and receipts were audited. This is an internal study without external peer review.",
+  "limitations": [
+    "One original run per model; no estimate of run-to-run variation.",
+    "Provider-specific effort names and token counts do not establish equal compute.",
+    "Public test items; training contamination was not measured.",
+    "Static numbered image layout differs from the interactive human test.",
+    "No measured human IQ, human percentile or general intelligence ranking.",
+    "Calibration was selected for completion failures and is not a representative accuracy sample.",
+    "Changing provider and allowance together does not isolate their effects; delivery observations do not establish a universal timeout cause."
+  ],
+  "provenance": {
+    "baselineProtocolFingerprint": "f4425b7fb5a235cd7c11fb84c4849c4f7df3d43064160f289b8434ec9478f59b",
+    "calibrationProtocolFingerprints": [
+      "a3d759d4258fecfc3dba39d0f437ba7b0b03533584394edbf0d28e45f5445546",
+      "8f8ba0bf7d62f00e10dab8b9f25602401cfcab131603877d9d1529492b05c5db",
+      "de519ca05127ce18e087812e3b3d500e9d720d9ac4131195bfb15b5dc2eda1c4"
+    ]
+  }
+}

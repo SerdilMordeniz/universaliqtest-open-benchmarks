@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "reportUrl": "https://www.universaliqtest.com/ai-iq-test",
+  "releaseDate": "2026-11-14",
+  "files": [
+    {
+      "path": "results.json",
+      "bytes": 7539,
+      "sha256": "c0ee8254573ede90cd86d68d0e28a492b6b83b891f1516b95f9db06a41914d0f"
+    },
+    {
+      "path": "measurements.json",
+      "bytes": 114178,
+      "sha256": "2f21c4c308bf52d660b729d0646a51203fcea007a69542bd60da878514b7398c"
+    },
+    {
+      "path": "methods.json",
+      "bytes": 3696,
+      "sha256": "a7ce74f1ed9824e3eadce5f69a7a0efee9e41876960d7ebd91f42004b67ed78f"
+    },
+    {
+      "path": "report.md",
+      "bytes": 5237,
+      "sha256": "f79cc3b93fb5b2e5261f14059d643dea4061334eb9e93d23aa5e0b9108135372"
+    },
+    {
+      "path": "outcomes.svg",
+      "bytes": 17552,
+      "sha256": "e015c253ae36f8f694b34728a6b335f339f261bc3e5fc0f00832bb5e36ba6ac0"
+    },
+    {
+      "path": "outcomes.png",
+      "bytes": 59982,
+      "sha256": "6fb52732249a34d646a1d218edfb11ea4a7efd8465622b46bdcfa6995d7c2025"
+    }
+  ]
+}

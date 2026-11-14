@@ -1,0 +1,3 @@
+Wybrane próby: liczebność przy każdym wyniku
+
+Not national population estimates. BG: score 97.2, approximate interval 96.13–98.27, n=641; CZ: score 99.2, approximate interval 98.41–99.99, n=1290; FR: score 99.6, approximate interval 99.08–100.12, n=3068; IT: score 101.7, approximate interval 100.89–102.51, n=1395; PL: score 98.1, approximate interval 97.53–98.67, n=2518; PT: score 99.9, approximate interval 98.30–101.50, n=333; RU: score 99.1, approximate interval 98.85–99.35, n=11999; SK: score 97.9, approximate interval 97.16–98.64, n=1364; UA: score 95.5, approximate interval 95.28–95.72, n=15663

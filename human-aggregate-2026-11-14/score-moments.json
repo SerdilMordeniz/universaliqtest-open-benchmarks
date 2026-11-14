@@ -1,0 +1,3379 @@
+{
+  "scope": "Aggregate score moments only; no participant records or identifiers.",
+  "groups": [
+    {
+      "file": "data/country-validated.csv",
+      "category": "AD",
+      "n": 4,
+      "scoreSum": 406.7314153010068,
+      "scoreSquaredSum": 43339.87986807013
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "AE",
+      "n": 175,
+      "scoreSum": 16842.330490425906,
+      "scoreSquaredSum": 1653525.9683933728
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "AF",
+      "n": 6,
+      "scoreSum": 565.5936816077212,
+      "scoreSquaredSum": 53816.41473630535
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "AI",
+      "n": 2,
+      "scoreSum": 173.68242852569722,
+      "scoreSquaredSum": 15123.94124199941
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "AL",
+      "n": 32,
+      "scoreSum": 3080.064511541565,
+      "scoreSquaredSum": 301243.7572119999
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "AM",
+      "n": 116,
+      "scoreSum": 11977.57539634677,
+      "scoreSquaredSum": 1259402.863186538
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "AO",
+      "n": 25,
+      "scoreSum": 2440.599934263845,
+      "scoreSquaredSum": 244099.10508452114
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "AQ",
+      "n": 2,
+      "scoreSum": 179.3301807097014,
+      "scoreSquaredSum": 16187.98861323202
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "AR",
+      "n": 190,
+      "scoreSum": 18551.340900501335,
+      "scoreSquaredSum": 1860617.3431371835
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "AT",
+      "n": 741,
+      "scoreSum": 74971.97262029827,
+      "scoreSquaredSum": 7743752.894099991
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "AU",
+      "n": 293,
+      "scoreSum": 30283.510056771607,
+      "scoreSquaredSum": 3195483.894261591
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "AW",
+      "n": 5,
+      "scoreSum": 451.5785348901421,
+      "scoreSquaredSum": 42431.92492665743
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "AX",
+      "n": 3,
+      "scoreSum": 280.72157026967,
+      "scoreSquaredSum": 26846.068628113597
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "AZ",
+      "n": 195,
+      "scoreSum": 19833.43008310715,
+      "scoreSquaredSum": 2061584.8088743938
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "BA",
+      "n": 17,
+      "scoreSum": 1835.3243496028178,
+      "scoreSquaredSum": 202533.07644319112
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "BB",
+      "n": 1,
+      "scoreSum": 107.78414225269903,
+      "scoreSquaredSum": 11617.42132115006
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "BD",
+      "n": 30,
+      "scoreSum": 2971.2384238979694,
+      "scoreSquaredSum": 301617.45107972296
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "BE",
+      "n": 564,
+      "scoreSum": 56932.350943569516,
+      "scoreSquaredSum": 5863691.973064313
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "BF",
+      "n": 6,
+      "scoreSum": 557.4875582832649,
+      "scoreSquaredSum": 52746.913163526486
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "BG",
+      "n": 641,
+      "scoreSum": 62332.35872078179,
+      "scoreSquaredSum": 6183838.856922365
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "BH",
+      "n": 19,
+      "scoreSum": 1772.8736896916803,
+      "scoreSquaredSum": 168892.587598418
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "BI",
+      "n": 1,
+      "scoreSum": 66.82727274785279,
+      "scoreSquaredSum": 4465.884382915908
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "BJ",
+      "n": 18,
+      "scoreSum": 1725.6133777347789,
+      "scoreSquaredSum": 174489.54532628506
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "BL",
+      "n": 1,
+      "scoreSum": 82.30534319394434,
+      "scoreSquaredSum": 6774.16951827296
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "BN",
+      "n": 1,
+      "scoreSum": 91.3770853317529,
+      "scoreSquaredSum": 8349.77172372645
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "BO",
+      "n": 18,
+      "scoreSum": 1678.788630761693,
+      "scoreSquaredSum": 160324.93055832307
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "BR",
+      "n": 1348,
+      "scoreSum": 129575.91941769095,
+      "scoreSquaredSum": 12779105.153814536
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "BS",
+      "n": 2,
+      "scoreSum": 220.96989941310258,
+      "scoreSquaredSum": 24550.879244030915
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "BT",
+      "n": 1,
+      "scoreSum": 72.0345685368438,
+      "scoreSquaredSum": 5188.979064289248
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "BW",
+      "n": 1,
+      "scoreSum": 80.64127410513038,
+      "scoreSquaredSum": 6503.015089298771
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "BY",
+      "n": 733,
+      "scoreSum": 73722.81434066562,
+      "scoreSquaredSum": 7577456.248712749
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "BZ",
+      "n": 3,
+      "scoreSum": 284.72347778151675,
+      "scoreSquaredSum": 27380.584691986136
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "CA",
+      "n": 817,
+      "scoreSum": 82809.95221331097,
+      "scoreSquaredSum": 8586292.52929216
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "CD",
+      "n": 14,
+      "scoreSum": 1271.7902262962323,
+      "scoreSquaredSum": 116971.63174418626
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "CF",
+      "n": 1,
+      "scoreSum": 66.85909560272708,
+      "scoreSquaredSum": 4470.1386648146
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "CG",
+      "n": 8,
+      "scoreSum": 662.1794562863781,
+      "scoreSquaredSum": 56537.9325020391
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "CH",
+      "n": 619,
+      "scoreSum": 62817.51723253124,
+      "scoreSquaredSum": 6500988.853355352
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "CI",
+      "n": 34,
+      "scoreSum": 3250.5102502642385,
+      "scoreSquaredSum": 316208.25183162675
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "CL",
+      "n": 70,
+      "scoreSum": 7027.937324752931,
+      "scoreSquaredSum": 721902.297079178
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "CM",
+      "n": 45,
+      "scoreSum": 4189.670384718784,
+      "scoreSquaredSum": 396648.8338214043
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "CN",
+      "n": 5490,
+      "scoreSum": 597272.0701771461,
+      "scoreSquaredSum": 66063090.282526046
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "CO",
+      "n": 86,
+      "scoreSum": 8316.40967373498,
+      "scoreSquaredSum": 828567.0576048167
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "CR",
+      "n": 15,
+      "scoreSum": 1401.1108686439281,
+      "scoreSquaredSum": 133646.0471617243
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "CU",
+      "n": 17,
+      "scoreSum": 1766.2137722486825,
+      "scoreSquaredSum": 187909.2748037207
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "CV",
+      "n": 1,
+      "scoreSum": 118.76235934702999,
+      "scoreSquaredSum": 14104.497997673081
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "CW",
+      "n": 2,
+      "scoreSum": 159.05681680386922,
+      "scoreSquaredSum": 12832.672839864765
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "CY",
+      "n": 80,
+      "scoreSum": 7999.48936391545,
+      "scoreSquaredSum": 811923.7149330934
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "CZ",
+      "n": 1290,
+      "scoreSum": 127945.24545591387,
+      "scoreSquaredSum": 12957449.31079768
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "DE",
+      "n": 5920,
+      "scoreSum": 599187.1432007042,
+      "scoreSquaredSum": 61960633.63286744
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "DJ",
+      "n": 1,
+      "scoreSum": 97.12220347233034,
+      "scoreSquaredSum": 9432.722407320736
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "DK",
+      "n": 563,
+      "scoreSum": 56121.52079400659,
+      "scoreSquaredSum": 5737713.62096958
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "DO",
+      "n": 13,
+      "scoreSum": 1193.1244035982359,
+      "scoreSquaredSum": 111745.15438181134
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "DZ",
+      "n": 369,
+      "scoreSum": 35572.538745012156,
+      "scoreSquaredSum": 3501670.7807303914
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "EC",
+      "n": 41,
+      "scoreSum": 4167.196637681962,
+      "scoreSquaredSum": 437844.34165995155
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "EE",
+      "n": 335,
+      "scoreSum": 32780.78710622798,
+      "scoreSquaredSum": 3269016.242626572
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "EG",
+      "n": 611,
+      "scoreSum": 57023.44449903162,
+      "scoreSquaredSum": 5455127.705192183
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "ES",
+      "n": 676,
+      "scoreSum": 68297.64071532956,
+      "scoreSquaredSum": 7058703.7361132605
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "ET",
+      "n": 23,
+      "scoreSum": 2272.2069325536618,
+      "scoreSquaredSum": 226945.02837866647
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "FI",
+      "n": 822,
+      "scoreSum": 83086.6543045493,
+      "scoreSquaredSum": 8570173.276579149
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "FJ",
+      "n": 4,
+      "scoreSum": 407.1704506842993,
+      "scoreSquaredSum": 41849.44524207947
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "FO",
+      "n": 6,
+      "scoreSum": 679.024238675476,
+      "scoreSquaredSum": 77269.75856119987
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "FR",
+      "n": 3068,
+      "scoreSum": 305542.7806125543,
+      "scoreSquaredSum": 31084407.86568993
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "GA",
+      "n": 8,
+      "scoreSum": 695.7886922942913,
+      "scoreSquaredSum": 62568.04800147206
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "GB",
+      "n": 1010,
+      "scoreSum": 101666.91600990607,
+      "scoreSquaredSum": 10448360.567837605
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "GD",
+      "n": 1,
+      "scoreSum": 88.36672440366921,
+      "scoreSquaredSum": 7808.677981834027
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "GE",
+      "n": 156,
+      "scoreSum": 15765.513155400862,
+      "scoreSquaredSum": 1629956.65758103
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "GF",
+      "n": 7,
+      "scoreSum": 644.5834624624329,
+      "scoreSquaredSum": 61083.50366952775
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "GG",
+      "n": 1,
+      "scoreSum": 113.08861931007006,
+      "scoreSquaredSum": 12789.03581745795
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "GH",
+      "n": 6,
+      "scoreSum": 468.8300682629229,
+      "scoreSquaredSum": 36949.726703934655
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "GI",
+      "n": 2,
+      "scoreSum": 185.2013770023692,
+      "scoreSquaredSum": 17588.866457589284
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "GL",
+      "n": 5,
+      "scoreSum": 406.4756842132514,
+      "scoreSquaredSum": 33268.5516606674
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "GP",
+      "n": 13,
+      "scoreSum": 1168.3750734118935,
+      "scoreSquaredSum": 106330.70898023107
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "GR",
+      "n": 628,
+      "scoreSum": 62051.83873934271,
+      "scoreSquaredSum": 6270235.775817408
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "GT",
+      "n": 26,
+      "scoreSum": 2468.2436424827374,
+      "scoreSquaredSum": 238997.34903410764
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "GU",
+      "n": 1,
+      "scoreSum": 82.40357722438608,
+      "scoreSquaredSum": 6790.349539375361
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "GY",
+      "n": 1,
+      "scoreSum": 107.78414225269903,
+      "scoreSquaredSum": 11617.42132115006
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "HK",
+      "n": 771,
+      "scoreSum": 81651.58451083026,
+      "scoreSquaredSum": 8813277.337818792
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "HN",
+      "n": 15,
+      "scoreSum": 1271.8178879442319,
+      "scoreSquaredSum": 111705.55904550392
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "HR",
+      "n": 50,
+      "scoreSum": 5136.235093427614,
+      "scoreSquaredSum": 540252.7392273078
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "HT",
+      "n": 7,
+      "scoreSum": 543.6632606659155,
+      "scoreSquaredSum": 45375.8747953106
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "HU",
+      "n": 844,
+      "scoreSum": 84049.31611415974,
+      "scoreSquaredSum": 8553222.08626301
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "ID",
+      "n": 317,
+      "scoreSum": 31190.115588056044,
+      "scoreSquaredSum": 3163145.269340899
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "IE",
+      "n": 140,
+      "scoreSum": 14147.843658738277,
+      "scoreSquaredSum": 1460839.40443792
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "IL",
+      "n": 127,
+      "scoreSum": 12705.051749077658,
+      "scoreSquaredSum": 1305805.3993981269
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "IM",
+      "n": 1,
+      "scoreSum": 135.99630561621103,
+      "scoreSquaredSum": 18494.995141257874
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "IN",
+      "n": 448,
+      "scoreSum": 45018.0797534236,
+      "scoreSquaredSum": 4620409.636480284
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "IQ",
+      "n": 262,
+      "scoreSum": 24372.490895239356,
+      "scoreSquaredSum": 2325621.615706505
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "IR",
+      "n": 96,
+      "scoreSum": 10132.960324745673,
+      "scoreSquaredSum": 1102659.6861393203
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "IS",
+      "n": 14,
+      "scoreSum": 1358.127526221572,
+      "scoreSquaredSum": 134351.31509141836
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "IT",
+      "n": 1395,
+      "scoreSum": 141883.76743730085,
+      "scoreSquaredSum": 14759385.206652839
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "JE",
+      "n": 2,
+      "scoreSum": 221.55856636252557,
+      "scoreSquaredSum": 25826.536211647468
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "JM",
+      "n": 5,
+      "scoreSum": 499.83277487207414,
+      "scoreSquaredSum": 50986.50617291587
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "JO",
+      "n": 155,
+      "scoreSum": 14383.402080596366,
+      "scoreSquaredSum": 1363014.7896183135
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "JP",
+      "n": 5128,
+      "scoreSum": 546120.577882559,
+      "scoreSquaredSum": 59186296.61377669
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "KE",
+      "n": 23,
+      "scoreSum": 2215.593972187798,
+      "scoreSquaredSum": 220713.32228239227
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "KG",
+      "n": 117,
+      "scoreSum": 11068.380491402897,
+      "scoreSquaredSum": 1071451.269241638
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "KH",
+      "n": 18,
+      "scoreSum": 1676.7641836951998,
+      "scoreSquaredSum": 161740.7994365242
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "KR",
+      "n": 6616,
+      "scoreSum": 684293.8859040221,
+      "scoreSquaredSum": 72066151.46274516
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "KW",
+      "n": 44,
+      "scoreSum": 4037.655194135836,
+      "scoreSquaredSum": 378267.01448712894
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "KZ",
+      "n": 937,
+      "scoreSum": 91773.90090115221,
+      "scoreSquaredSum": 9191558.697984323
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "LA",
+      "n": 28,
+      "scoreSum": 2654.163135517995,
+      "scoreSquaredSum": 258007.6342319252
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "LB",
+      "n": 36,
+      "scoreSum": 3343.7090300390378,
+      "scoreSquaredSum": 317554.6944490741
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "LI",
+      "n": 4,
+      "scoreSum": 403.5342166768012,
+      "scoreSquaredSum": 40980.86747501115
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "LK",
+      "n": 25,
+      "scoreSum": 2494.030326546329,
+      "scoreSquaredSum": 251355.84462400366
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "LT",
+      "n": 127,
+      "scoreSum": 12773.780847408718,
+      "scoreSquaredSum": 1304095.784041359
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "LU",
+      "n": 44,
+      "scoreSum": 4488.95687049303,
+      "scoreSquaredSum": 468789.07346119767
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "LV",
+      "n": 216,
+      "scoreSum": 22044.671883775703,
+      "scoreSquaredSum": 2288852.9500342277
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "LY",
+      "n": 57,
+      "scoreSum": 5393.487069126134,
+      "scoreSquaredSum": 524369.0531531161
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "MA",
+      "n": 286,
+      "scoreSum": 27356.5338563228,
+      "scoreSquaredSum": 2693309.7541914484
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "MC",
+      "n": 1,
+      "scoreSum": 91.3770853317529,
+      "scoreSquaredSum": 8349.77172372645
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "MD",
+      "n": 175,
+      "scoreSum": 17380.50995489655,
+      "scoreSquaredSum": 1761163.4340073173
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "ME",
+      "n": 19,
+      "scoreSum": 1929.7086440197334,
+      "scoreSquaredSum": 199425.74066988286
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "MG",
+      "n": 25,
+      "scoreSum": 2299.672205947043,
+      "scoreSquaredSum": 215228.33780201364
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "MK",
+      "n": 13,
+      "scoreSum": 1259.5396600567067,
+      "scoreSquaredSum": 124678.63982942146
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "ML",
+      "n": 3,
+      "scoreSum": 223.0718347952932,
+      "scoreSquaredSum": 16985.85048261365
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "MM",
+      "n": 7,
+      "scoreSum": 688.6709987766197,
+      "scoreSquaredSum": 68625.39985288943
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "MN",
+      "n": 21,
+      "scoreSum": 2210.0651987542437,
+      "scoreSquaredSum": 240367.52245583062
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "MO",
+      "n": 42,
+      "scoreSum": 4328.6178858556605,
+      "scoreSquaredSum": 452377.9918104756
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "MQ",
+      "n": 6,
+      "scoreSum": 568.8661195763046,
+      "scoreSquaredSum": 54789.396260003254
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "MR",
+      "n": 6,
+      "scoreSum": 478.813209095769,
+      "scoreSquaredSum": 39119.9643060611
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "MT",
+      "n": 9,
+      "scoreSum": 804.4766419014816,
+      "scoreSquaredSum": 73838.05087329655
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "MU",
+      "n": 14,
+      "scoreSum": 1385.9726409986454,
+      "scoreSquaredSum": 139672.68743058562
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "MV",
+      "n": 4,
+      "scoreSum": 443.49740875526345,
+      "scoreSquaredSum": 49502.0981278205
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "MX",
+      "n": 277,
+      "scoreSum": 26590.4715606009,
+      "scoreSquaredSum": 2613983.5396437733
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "MY",
+      "n": 217,
+      "scoreSum": 21593.082671931126,
+      "scoreSquaredSum": 2191779.9325475963
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "MZ",
+      "n": 8,
+      "scoreSum": 713.1049472180812,
+      "scoreSquaredSum": 64345.645300219476
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "NA",
+      "n": 2,
+      "scoreSum": 210.12321383285303,
+      "scoreSquaredSum": 22090.72688917315
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "NC",
+      "n": 7,
+      "scoreSum": 693.2135407947758,
+      "scoreSquaredSum": 71040.12614383583
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "NE",
+      "n": 4,
+      "scoreSum": 376.5772705974714,
+      "scoreSquaredSum": 36350.29937142369
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "NG",
+      "n": 40,
+      "scoreSum": 3775.5900408194416,
+      "scoreSquaredSum": 363230.86158295505
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "NI",
+      "n": 13,
+      "scoreSum": 1234.5986171828147,
+      "scoreSquaredSum": 119023.88123029575
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "NL",
+      "n": 1533,
+      "scoreSum": 155847.36593118365,
+      "scoreSquaredSum": 16202452.157444404
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "NO",
+      "n": 425,
+      "scoreSum": 42135.01696139374,
+      "scoreSquaredSum": 4274070.357473652
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "NP",
+      "n": 17,
+      "scoreSum": 1758.6573862582022,
+      "scoreSquaredSum": 185013.785547582
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "NZ",
+      "n": 52,
+      "scoreSum": 5331.941828835953,
+      "scoreSquaredSum": 560258.0616130363
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "OM",
+      "n": 55,
+      "scoreSum": 5222.219086647048,
+      "scoreSquaredSum": 504392.7575728924
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "PA",
+      "n": 2,
+      "scoreSum": 199.0101961095188,
+      "scoreSquaredSum": 20046.291257507026
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "PE",
+      "n": 98,
+      "scoreSum": 10046.045242821661,
+      "scoreSquaredSum": 1052110.0883959392
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "PF",
+      "n": 2,
+      "scoreSum": 223.30036109374197,
+      "scoreSquaredSum": 24935.663844448725
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "PG",
+      "n": 2,
+      "scoreSum": 147.62458911717002,
+      "scoreSquaredSum": 11513.553405816965
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "PH",
+      "n": 116,
+      "scoreSum": 11545.133845804938,
+      "scoreSquaredSum": 1170145.6570823423
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "PK",
+      "n": 69,
+      "scoreSum": 6627.370285272854,
+      "scoreSquaredSum": 654416.0639427085
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "PL",
+      "n": 2518,
+      "scoreSum": 246952.85895783504,
+      "scoreSquaredSum": 24766870.118924454
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "PM",
+      "n": 1,
+      "scoreSum": 135.99630561621103,
+      "scoreSquaredSum": 18494.995141257874
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "PR",
+      "n": 5,
+      "scoreSum": 551.2730518071073,
+      "scoreSquaredSum": 62328.08988438347
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "PS",
+      "n": 55,
+      "scoreSum": 5232.947603808082,
+      "scoreSquaredSum": 508765.40359006054
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "PT",
+      "n": 333,
+      "scoreSum": 33273.54927948251,
+      "scoreSquaredSum": 3398128.962097917
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "PY",
+      "n": 15,
+      "scoreSum": 1406.9317376248932,
+      "scoreSquaredSum": 136096.62275545296
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "QA",
+      "n": 20,
+      "scoreSum": 1978.9522663104399,
+      "scoreSquaredSum": 201168.2471159634
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "RE",
+      "n": 31,
+      "scoreSum": 2919.01738431986,
+      "scoreSquaredSum": 285394.7005272166
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "RO",
+      "n": 972,
+      "scoreSum": 94514.71092094577,
+      "scoreSquaredSum": 9419396.818090172
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "RS",
+      "n": 86,
+      "scoreSum": 8962.740548639667,
+      "scoreSquaredSum": 951038.5986984307
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "RU",
+      "n": 11999,
+      "scoreSum": 1188760.3895299088,
+      "scoreSquaredSum": 120162464.75387165
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "RW",
+      "n": 5,
+      "scoreSum": 473.9575803690424,
+      "scoreSquaredSum": 46988.08891222607
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "SA",
+      "n": 337,
+      "scoreSum": 31296.633400783634,
+      "scoreSquaredSum": 2974871.6888606185
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "SC",
+      "n": 7,
+      "scoreSum": 717.056826519319,
+      "scoreSquaredSum": 74575.14000772973
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "SD",
+      "n": 28,
+      "scoreSum": 2670.985536841148,
+      "scoreSquaredSum": 259325.0330376618
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "SE",
+      "n": 844,
+      "scoreSum": 86387.21023075489,
+      "scoreSquaredSum": 9034750.655236866
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "SG",
+      "n": 159,
+      "scoreSum": 17117.177719725853,
+      "scoreSquaredSum": 1879643.935893084
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "SI",
+      "n": 23,
+      "scoreSum": 2380.4449578860126,
+      "scoreSquaredSum": 251458.45134477742
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "SK",
+      "n": 1364,
+      "scoreSum": 133551.23088401684,
+      "scoreSquaredSum": 13344328.847378591
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "SM",
+      "n": 1,
+      "scoreSum": 80.64127410513038,
+      "scoreSquaredSum": 6503.015089298771
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "SN",
+      "n": 21,
+      "scoreSum": 1978.2802480460903,
+      "scoreSquaredSum": 189767.74113997005
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "SO",
+      "n": 4,
+      "scoreSum": 356.4865974058371,
+      "scoreSquaredSum": 32122.742334307273
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "SR",
+      "n": 2,
+      "scoreSum": 186.0200613770489,
+      "scoreSquaredSum": 17304.92012756604
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "SS",
+      "n": 1,
+      "scoreSum": 91.3770853317529,
+      "scoreSquaredSum": 8349.77172372645
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "SV",
+      "n": 4,
+      "scoreSum": 349.24773234082613,
+      "scoreSquaredSum": 30801.27977503458
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "SX",
+      "n": 2,
+      "scoreSum": 172.63090354041503,
+      "scoreSquaredSum": 14916.19468953106
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "SY",
+      "n": 101,
+      "scoreSum": 9485.475414572948,
+      "scoreSquaredSum": 915402.3640283494
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "SZ",
+      "n": 1,
+      "scoreSum": 91.74739253657428,
+      "scoreSquaredSum": 8417.584037260247
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "TG",
+      "n": 12,
+      "scoreSum": 1242.7908319766002,
+      "scoreSquaredSum": 131146.86108024258
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "TH",
+      "n": 1361,
+      "scoreSum": 130788.65519648421,
+      "scoreSquaredSum": 12854472.114053642
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "TJ",
+      "n": 36,
+      "scoreSum": 3409.538891726356,
+      "scoreSquaredSum": 330706.86089998623
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "TL",
+      "n": 1,
+      "scoreSum": 91.26382825015952,
+      "scoreSquaredSum": 8329.086346874616
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "TM",
+      "n": 62,
+      "scoreSum": 5853.176694844529,
+      "scoreSquaredSum": 563808.5675357635
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "TN",
+      "n": 138,
+      "scoreSum": 12865.697020739854,
+      "scoreSquaredSum": 1227554.0160939016
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "TR",
+      "n": 3052,
+      "scoreSum": 296576.1100158725,
+      "scoreSquaredSum": 29450021.08831295
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "TT",
+      "n": 3,
+      "scoreSum": 311.71755999929576,
+      "scoreSquaredSum": 33602.55474931986
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "TW",
+      "n": 1613,
+      "scoreSum": 166281.80234659585,
+      "scoreSquaredSum": 17454267.93888591
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "TZ",
+      "n": 6,
+      "scoreSum": 560.9007282971309,
+      "scoreSquaredSum": 54119.6837360784
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "UA",
+      "n": 15663,
+      "scoreSum": 1495119.2772164564,
+      "scoreSquaredSum": 145774812.5499125
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "UG",
+      "n": 3,
+      "scoreSum": 301.89802675501625,
+      "scoreSquaredSum": 30985.211623302326
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "US",
+      "n": 2743,
+      "scoreSum": 279806.2787591881,
+      "scoreSquaredSum": 29134226.52469407
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "UY",
+      "n": 18,
+      "scoreSum": 1683.1201841905236,
+      "scoreSquaredSum": 162233.4286058508
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "UZ",
+      "n": 397,
+      "scoreSum": 38588.32476970482,
+      "scoreSquaredSum": 3841605.0109476447
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "VE",
+      "n": 35,
+      "scoreSum": 3310.983105612141,
+      "scoreSquaredSum": 324318.28365667694
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "VN",
+      "n": 123,
+      "scoreSum": 12932.45514474421,
+      "scoreSquaredSum": 1385175.722269052
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "XK",
+      "n": 9,
+      "scoreSum": 891.1909455905426,
+      "scoreSquaredSum": 90678.85812626395
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "YE",
+      "n": 83,
+      "scoreSum": 7559.4330706118735,
+      "scoreSquaredSum": 710729.4829699347
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "ZA",
+      "n": 49,
+      "scoreSum": 4793.924464179968,
+      "scoreSquaredSum": 477009.7915133079
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "ZM",
+      "n": 5,
+      "scoreSum": 460.548602231502,
+      "scoreSquaredSum": 43253.79978521249
+    },
+    {
+      "file": "data/country-validated.csv",
+      "category": "ZW",
+      "n": 2,
+      "scoreSum": 199.4900077022047,
+      "scoreSquaredSum": 19914.250190446015
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "AD",
+      "n": 15,
+      "scoreSum": 1332.0449692992797,
+      "scoreSquaredSum": 123452.58247892799
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "AE",
+      "n": 472,
+      "scoreSum": 45881.93955584101,
+      "scoreSquaredSum": 4548598.876480571
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "AF",
+      "n": 42,
+      "scoreSum": 3951.765669027673,
+      "scoreSquaredSum": 379610.6083315465
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "AG",
+      "n": 5,
+      "scoreSum": 456.441055640935,
+      "scoreSquaredSum": 41926.251703585105
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "AI",
+      "n": 16,
+      "scoreSum": 1481.6285709343472,
+      "scoreSquaredSum": 142029.9029732823
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "AL",
+      "n": 78,
+      "scoreSum": 7584.320441681068,
+      "scoreSquaredSum": 753837.3442088361
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "AM",
+      "n": 250,
+      "scoreSum": 25146.55600605663,
+      "scoreSquaredSum": 2592243.0361334374
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "AO",
+      "n": 82,
+      "scoreSum": 7799.038081546741,
+      "scoreSquaredSum": 760459.7887142984
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "AQ",
+      "n": 13,
+      "scoreSum": 1183.5511452526564,
+      "scoreSquaredSum": 110797.69237499425
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "AR",
+      "n": 418,
+      "scoreSum": 41884.99786008442,
+      "scoreSquaredSum": 4288986.327922074
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "AS",
+      "n": 3,
+      "scoreSum": 272.41040690917265,
+      "scoreSquaredSum": 25121.294366114715
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "AT",
+      "n": 1499,
+      "scoreSum": 153103.08818446967,
+      "scoreSquaredSum": 15945375.02907234
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "AU",
+      "n": 637,
+      "scoreSum": 65761.91335648934,
+      "scoreSquaredSum": 6944514.6531784795
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "AW",
+      "n": 12,
+      "scoreSum": 1138.5422426921214,
+      "scoreSquaredSum": 110405.90855990592
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "AX",
+      "n": 9,
+      "scoreSum": 829.2279175845115,
+      "scoreSquaredSum": 78147.36431332899
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "AZ",
+      "n": 581,
+      "scoreSum": 57407.225672882465,
+      "scoreSquaredSum": 5809231.986394258
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "BA",
+      "n": 41,
+      "scoreSum": 4195.524762248802,
+      "scoreSquaredSum": 443902.7700167795
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "BB",
+      "n": 10,
+      "scoreSum": 852.113702316559,
+      "scoreSquaredSum": 76047.63430429297
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "BD",
+      "n": 91,
+      "scoreSum": 8889.814469797031,
+      "scoreSquaredSum": 888314.8112352653
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "BE",
+      "n": 1019,
+      "scoreSum": 104115.79291186521,
+      "scoreSquaredSum": 10834270.738679696
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "BF",
+      "n": 15,
+      "scoreSum": 1418.4703430082843,
+      "scoreSquaredSum": 136848.0710472479
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "BG",
+      "n": 1366,
+      "scoreSum": 133504.089780522,
+      "scoreSquaredSum": 13295897.724197235
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "BH",
+      "n": 60,
+      "scoreSum": 5777.7040574675,
+      "scoreSquaredSum": 566856.4277683984
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "BI",
+      "n": 1,
+      "scoreSum": 78.40553897009448,
+      "scoreSquaredSum": 6147.428541191005
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "BJ",
+      "n": 46,
+      "scoreSum": 4596.7988247762705,
+      "scoreSquaredSum": 471084.85504965443
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "BL",
+      "n": 1,
+      "scoreSum": 97.51477927727062,
+      "scoreSquaredSum": 9509.132177494808
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "BM",
+      "n": 1,
+      "scoreSum": 87.70852329790222,
+      "scoreSquaredSum": 7692.785059098656
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "BN",
+      "n": 3,
+      "scoreSum": 309.07336380725826,
+      "scoreSquaredSum": 31906.615135738088
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "BO",
+      "n": 42,
+      "scoreSum": 4061.145042725123,
+      "scoreSquaredSum": 399570.918724736
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "BR",
+      "n": 3327,
+      "scoreSum": 322678.10405445134,
+      "scoreSquaredSum": 31936849.194063373
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "BS",
+      "n": 3,
+      "scoreSum": 317.0566291890082,
+      "scoreSquaredSum": 34094.130799303886
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "BT",
+      "n": 6,
+      "scoreSum": 505.12765108617765,
+      "scoreSquaredSum": 43344.45915663043
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "BW",
+      "n": 7,
+      "scoreSum": 720.9078860152276,
+      "scoreSquaredSum": 74643.28216153863
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "BY",
+      "n": 1617,
+      "scoreSum": 162863.34558204564,
+      "scoreSquaredSum": 16766872.528596777
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "BZ",
+      "n": 6,
+      "scoreSum": 571.5738055255124,
+      "scoreSquaredSum": 55451.731568403
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "CA",
+      "n": 1619,
+      "scoreSum": 165153.08626966574,
+      "scoreSquaredSum": 17219185.4755568
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "CC",
+      "n": 1,
+      "scoreSum": 104.16854135037627,
+      "scoreSquaredSum": 10851.085007065052
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "CD",
+      "n": 46,
+      "scoreSum": 4336.381556173978,
+      "scoreSquaredSum": 414999.82406810817
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "CF",
+      "n": 1,
+      "scoreSum": 86.03441168437165,
+      "scoreSquaredSum": 7401.919993875945
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "CG",
+      "n": 30,
+      "scoreSum": 2730.8698976617775,
+      "scoreSquaredSum": 251994.12310250683
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "CH",
+      "n": 1268,
+      "scoreSum": 129459.960309404,
+      "scoreSquaredSum": 13480906.85551264
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "CI",
+      "n": 99,
+      "scoreSum": 9692.424557579981,
+      "scoreSquaredSum": 962294.9329059738
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "CL",
+      "n": 167,
+      "scoreSum": 16813.34257874552,
+      "scoreSquaredSum": 1731701.3671212506
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "CM",
+      "n": 91,
+      "scoreSum": 9025.117340566783,
+      "scoreSquaredSum": 906813.9029613181
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "CN",
+      "n": 11629,
+      "scoreSum": 1240008.186273939,
+      "scoreSquaredSum": 135693142.9264497
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "CO",
+      "n": 237,
+      "scoreSum": 23166.508814792407,
+      "scoreSquaredSum": 2321265.8513745097
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "CR",
+      "n": 37,
+      "scoreSum": 3672.2265771313164,
+      "scoreSquaredSum": 370601.975009675
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "CU",
+      "n": 33,
+      "scoreSum": 3424.184202247717,
+      "scoreSquaredSum": 365398.46652653464
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "CV",
+      "n": 4,
+      "scoreSum": 415.9089514301148,
+      "scoreSquaredSum": 43656.62328750406
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "CW",
+      "n": 3,
+      "scoreSum": 288.2283419868337,
+      "scoreSquaredSum": 27788.433548062545
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "CY",
+      "n": 186,
+      "scoreSum": 18523.264572627133,
+      "scoreSquaredSum": 1881948.7054779618
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "CZ",
+      "n": 2707,
+      "scoreSum": 271741.8027174326,
+      "scoreSquaredSum": 27827140.923161834
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "DE",
+      "n": 10901,
+      "scoreSum": 1119240.8272410515,
+      "scoreSquaredSum": 117141717.25159068
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "DJ",
+      "n": 3,
+      "scoreSum": 265.859780916863,
+      "scoreSquaredSum": 23974.418769425338
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "DK",
+      "n": 1257,
+      "scoreSum": 125931.94954283242,
+      "scoreSquaredSum": 12912490.39854803
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "DM",
+      "n": 1,
+      "scoreSum": 83.72228073513362,
+      "scoreSquaredSum": 7009.420291492526
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "DO",
+      "n": 43,
+      "scoreSum": 4003.9332319971727,
+      "scoreSquaredSum": 378480.9164101534
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "DZ",
+      "n": 1072,
+      "scoreSum": 105262.76740472017,
+      "scoreSquaredSum": 10527601.583814071
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "EC",
+      "n": 78,
+      "scoreSum": 7970.818272539507,
+      "scoreSquaredSum": 835216.8946801516
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "EE",
+      "n": 683,
+      "scoreSum": 67320.33050432544,
+      "scoreSquaredSum": 6770223.200820617
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "EG",
+      "n": 1758,
+      "scoreSum": 169338.70677949747,
+      "scoreSquaredSum": 16626741.311751317
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "EH",
+      "n": 1,
+      "scoreSum": 116.44502561617283,
+      "scoreSquaredSum": 13559.443990751146
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "ES",
+      "n": 1368,
+      "scoreSum": 139397.44354020868,
+      "scoreSquaredSum": 14529072.690011306
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "ET",
+      "n": 53,
+      "scoreSum": 5265.976352340003,
+      "scoreSquaredSum": 533343.8976449999
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "FI",
+      "n": 1699,
+      "scoreSum": 172438.84427590162,
+      "scoreSquaredSum": 17867565.45632449
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "FJ",
+      "n": 7,
+      "scoreSum": 714.5063835521185,
+      "scoreSquaredSum": 73709.73141391976
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "FO",
+      "n": 11,
+      "scoreSum": 1199.9697708378778,
+      "scoreSquaredSum": 133367.14672990225
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "FR",
+      "n": 6493,
+      "scoreSum": 653251.1900326039,
+      "scoreSquaredSum": 66994729.40858674
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "GA",
+      "n": 38,
+      "scoreSum": 3518.6217547001816,
+      "scoreSquaredSum": 330697.9416633039
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "GB",
+      "n": 2187,
+      "scoreSum": 219519.48347163928,
+      "scoreSquaredSum": 22527645.99881101
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "GD",
+      "n": 2,
+      "scoreSum": 193.63050007254913,
+      "scoreSquaredSum": 18797.875038764076
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "GE",
+      "n": 375,
+      "scoreSum": 37498.928760765564,
+      "scoreSquaredSum": 3851851.5316064
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "GF",
+      "n": 11,
+      "scoreSum": 1104.0948756915043,
+      "scoreSquaredSum": 111902.91635183852
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "GG",
+      "n": 2,
+      "scoreSum": 220.081942434195,
+      "scoreSquaredSum": 24290.908650854122
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "GH",
+      "n": 30,
+      "scoreSum": 2785.19339978897,
+      "scoreSquaredSum": 265187.2482119956
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "GI",
+      "n": 4,
+      "scoreSum": 406.27189740757683,
+      "scoreSquaredSum": 41533.25694658399
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "GL",
+      "n": 14,
+      "scoreSum": 1260.9348561335457,
+      "scoreSquaredSum": 114792.49798195598
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "GN",
+      "n": 3,
+      "scoreSum": 271.26045053647283,
+      "scoreSquaredSum": 24904.70996264688
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "GP",
+      "n": 26,
+      "scoreSum": 2546.1176898930053,
+      "scoreSquaredSum": 252224.62152211292
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "GR",
+      "n": 1383,
+      "scoreSum": 137624.84387482036,
+      "scoreSquaredSum": 13986437.493862005
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "GT",
+      "n": 49,
+      "scoreSum": 4818.053895243972,
+      "scoreSquaredSum": 482339.15794688073
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "GU",
+      "n": 8,
+      "scoreSum": 747.0348459910147,
+      "scoreSquaredSum": 71503.19088046112
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "GW",
+      "n": 2,
+      "scoreSum": 176.6926023289236,
+      "scoreSquaredSum": 15673.912929264774
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "GY",
+      "n": 3,
+      "scoreSum": 299.9942165778151,
+      "scoreSquaredSum": 30470.496162121897
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "HK",
+      "n": 1611,
+      "scoreSum": 165994.25312643615,
+      "scoreSquaredSum": 17572547.64882717
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "HN",
+      "n": 38,
+      "scoreSum": 3556.224589566485,
+      "scoreSquaredSum": 336954.5453466338
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "HR",
+      "n": 106,
+      "scoreSum": 11125.265745332976,
+      "scoreSquaredSum": 1191170.4323080939
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "HT",
+      "n": 10,
+      "scoreSum": 914.8278723874429,
+      "scoreSquaredSum": 86309.88442371628
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "HU",
+      "n": 1594,
+      "scoreSum": 160857.77244577353,
+      "scoreSquaredSum": 16534203.843299264
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "ID",
+      "n": 760,
+      "scoreSum": 77029.87354535432,
+      "scoreSquaredSum": 8071737.074958896
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "IE",
+      "n": 292,
+      "scoreSum": 29830.14495342644,
+      "scoreSquaredSum": 3112902.1619222593
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "IL",
+      "n": 276,
+      "scoreSum": 27956.540399499594,
+      "scoreSquaredSum": 2899734.9024365805
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "IM",
+      "n": 2,
+      "scoreSum": 224.9401254067406,
+      "scoreSquaredSum": 26469.316881369334
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "IN",
+      "n": 1432,
+      "scoreSum": 144504.37032523114,
+      "scoreSquaredSum": 14893449.15427907
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "IQ",
+      "n": 785,
+      "scoreSum": 75695.41472015907,
+      "scoreSquaredSum": 7450666.858809551
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "IR",
+      "n": 208,
+      "scoreSum": 21165.90726329439,
+      "scoreSquaredSum": 2275992.3994017714
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "IS",
+      "n": 23,
+      "scoreSum": 2432.1641493779134,
+      "scoreSquaredSum": 259687.12858432363
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "IT",
+      "n": 2698,
+      "scoreSum": 276436.8347623266,
+      "scoreSquaredSum": 28955023.296320792
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "JE",
+      "n": 5,
+      "scoreSum": 540.5635317209401,
+      "scoreSquaredSum": 60258.543838597856
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "JM",
+      "n": 16,
+      "scoreSum": 1607.9863424014675,
+      "scoreSquaredSum": 163720.87530164997
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "JO",
+      "n": 421,
+      "scoreSum": 40427.7286586998,
+      "scoreSquaredSum": 3947277.6127860798
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "JP",
+      "n": 8720,
+      "scoreSum": 930667.7325104313,
+      "scoreSquaredSum": 101319678.63814414
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "KE",
+      "n": 65,
+      "scoreSum": 6391.6226152285835,
+      "scoreSquaredSum": 642675.7353634749
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "KG",
+      "n": 335,
+      "scoreSum": 32367.034731685006,
+      "scoreSquaredSum": 3192571.7914841026
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "KH",
+      "n": 41,
+      "scoreSum": 3968.3277546877334,
+      "scoreSquaredSum": 392537.63171033695
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "KM",
+      "n": 1,
+      "scoreSum": 87.70852329790222,
+      "scoreSquaredSum": 7692.785059098656
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "KR",
+      "n": 16766,
+      "scoreSum": 1714362.687516357,
+      "scoreSquaredSum": 179078501.0613289
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "KW",
+      "n": 120,
+      "scoreSum": 11057.376844716018,
+      "scoreSquaredSum": 1039017.979476937
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "KZ",
+      "n": 2402,
+      "scoreSum": 236676.96086297027,
+      "scoreSquaredSum": 23813061.03329749
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "LA",
+      "n": 74,
+      "scoreSum": 7125.814221475656,
+      "scoreSquaredSum": 698307.5639532374
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "LB",
+      "n": 96,
+      "scoreSum": 9182.386089114714,
+      "scoreSquaredSum": 893740.5501573202
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "LC",
+      "n": 2,
+      "scoreSum": 177.4857213722367,
+      "scoreSquaredSum": 15768.57202754538
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "LI",
+      "n": 8,
+      "scoreSum": 779.9729759532441,
+      "scoreSquaredSum": 77131.79147493011
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "LK",
+      "n": 67,
+      "scoreSum": 6891.006104316243,
+      "scoreSquaredSum": 717162.3218034941
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "LR",
+      "n": 1,
+      "scoreSum": 79.01434398568675,
+      "scoreSquaredSum": 6243.266555488432
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "LS",
+      "n": 1,
+      "scoreSum": 95.2693414380601,
+      "scoreSquaredSum": 9076.247418041674
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "LT",
+      "n": 314,
+      "scoreSum": 31521.911368160458,
+      "scoreSquaredSum": 3228927.7786357757
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "LU",
+      "n": 78,
+      "scoreSum": 8026.8390234191365,
+      "scoreSquaredSum": 841166.6882913595
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "LV",
+      "n": 439,
+      "scoreSum": 45096.36824929754,
+      "scoreSquaredSum": 4731752.023991465
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "LY",
+      "n": 166,
+      "scoreSum": 16021.369321226439,
+      "scoreSquaredSum": 1582132.7674927465
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "MA",
+      "n": 701,
+      "scoreSum": 69236.94610319202,
+      "scoreSquaredSum": 6983156.970077958
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "MC",
+      "n": 2,
+      "scoreSum": 177.3611862651315,
+      "scoreSquaredSum": 15864.24740389758
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "MD",
+      "n": 410,
+      "scoreSum": 40976.73162696036,
+      "scoreSquaredSum": 4178706.8846438113
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "ME",
+      "n": 37,
+      "scoreSum": 3824.3070037372713,
+      "scoreSquaredSum": 399403.77608275187
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "MG",
+      "n": 60,
+      "scoreSum": 5867.9079090994155,
+      "scoreSquaredSum": 580229.8724969008
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "MK",
+      "n": 35,
+      "scoreSum": 3306.744073111947,
+      "scoreSquaredSum": 319737.1221450984
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "ML",
+      "n": 8,
+      "scoreSum": 769.1933380329989,
+      "scoreSquaredSum": 74776.88407596854
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "MM",
+      "n": 34,
+      "scoreSum": 3290.3128523008904,
+      "scoreSquaredSum": 324564.1599787145
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "MN",
+      "n": 72,
+      "scoreSum": 7261.109893590653,
+      "scoreSquaredSum": 755215.4568161253
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "MO",
+      "n": 115,
+      "scoreSum": 11570.452195326556,
+      "scoreSquaredSum": 1190150.1263611978
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "MP",
+      "n": 2,
+      "scoreSum": 207.8817823239618,
+      "scoreSquaredSum": 21642.843745276616
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "MQ",
+      "n": 16,
+      "scoreSum": 1596.9241542126272,
+      "scoreSquaredSum": 161909.81813027308
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "MR",
+      "n": 18,
+      "scoreSum": 1620.528834091481,
+      "scoreSquaredSum": 148221.15537458853
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "MT",
+      "n": 22,
+      "scoreSum": 2093.7489856498905,
+      "scoreSquaredSum": 204652.35820342155
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "MU",
+      "n": 23,
+      "scoreSum": 2355.4744958090505,
+      "scoreSquaredSum": 243918.1634797743
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "MV",
+      "n": 9,
+      "scoreSum": 959.8522705337738,
+      "scoreSquaredSum": 104217.67204970964
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "MW",
+      "n": 2,
+      "scoreSum": 205.8936917596199,
+      "scoreSquaredSum": 21198.34341968647
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "MX",
+      "n": 666,
+      "scoreSum": 65668.72379697287,
+      "scoreSquaredSum": 6589887.380573135
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "MY",
+      "n": 514,
+      "scoreSum": 50679.542023484355,
+      "scoreSquaredSum": 5117808.232678261
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "MZ",
+      "n": 18,
+      "scoreSum": 1655.1492621016382,
+      "scoreSquaredSum": 155808.1221911622
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "NA",
+      "n": 5,
+      "scoreSum": 481.2435814385069,
+      "scoreSquaredSum": 47251.13141080731
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "NC",
+      "n": 23,
+      "scoreSum": 2282.066635905445,
+      "scoreSquaredSum": 229779.75656049824
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "NE",
+      "n": 5,
+      "scoreSum": 502.357748175514,
+      "scoreSquaredSum": 51155.56948987824
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "NG",
+      "n": 99,
+      "scoreSum": 9908.828021372654,
+      "scoreSquaredSum": 1005533.454849396
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "NI",
+      "n": 26,
+      "scoreSum": 2504.4269326728886,
+      "scoreSquaredSum": 244595.10650941753
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "NL",
+      "n": 3162,
+      "scoreSum": 323667.6238334424,
+      "scoreSquaredSum": 33842958.256376475
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "NO",
+      "n": 928,
+      "scoreSum": 91999.96042557625,
+      "scoreSquaredSum": 9340595.101685554
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "NP",
+      "n": 66,
+      "scoreSum": 6540.596226689054,
+      "scoreSquaredSum": 661215.1043116578
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "NR",
+      "n": 1,
+      "scoreSum": 85.74441258470328,
+      "scoreSquaredSum": 7352.104289495823
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "NZ",
+      "n": 115,
+      "scoreSum": 11742.904062645994,
+      "scoreSquaredSum": 1228408.6847763164
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "OM",
+      "n": 174,
+      "scoreSum": 16512.973613332462,
+      "scoreSquaredSum": 1597686.8466509574
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "PA",
+      "n": 18,
+      "scoreSum": 1769.6176845015882,
+      "scoreSquaredSum": 176937.0436453967
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "PE",
+      "n": 187,
+      "scoreSum": 19424.295729132547,
+      "scoreSquaredSum": 2056666.9878025327
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "PF",
+      "n": 7,
+      "scoreSum": 688.0156156373803,
+      "scoreSquaredSum": 68590.69425822872
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "PG",
+      "n": 3,
+      "scoreSum": 254.00558980198105,
+      "scoreSquaredSum": 21756.205997200996
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "PH",
+      "n": 431,
+      "scoreSum": 42152.82491113758,
+      "scoreSquaredSum": 4204732.55246697
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "PK",
+      "n": 245,
+      "scoreSum": 23276.87453902366,
+      "scoreSquaredSum": 2272985.7646260806
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "PL",
+      "n": 5687,
+      "scoreSum": 562621.4909943091,
+      "scoreSquaredSum": 56883005.85630041
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "PM",
+      "n": 1,
+      "scoreSum": 136.65980094471183,
+      "scoreSquaredSum": 18675.90119424826
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "PR",
+      "n": 13,
+      "scoreSum": 1341.6685366046584,
+      "scoreSquaredSum": 141876.24360251
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "PS",
+      "n": 119,
+      "scoreSum": 11595.585186500171,
+      "scoreSquaredSum": 1150740.3841177805
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "PT",
+      "n": 665,
+      "scoreSum": 67415.35713066426,
+      "scoreSquaredSum": 6968230.703392755
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "PY",
+      "n": 45,
+      "scoreSum": 4234.103168720584,
+      "scoreSquaredSum": 409149.4530952332
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "QA",
+      "n": 69,
+      "scoreSum": 6624.021309226014,
+      "scoreSquaredSum": 653557.147610698
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "RE",
+      "n": 84,
+      "scoreSum": 8162.135106468769,
+      "scoreSquaredSum": 810768.7276547767
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "RO",
+      "n": 2201,
+      "scoreSum": 215348.66921059508,
+      "scoreSquaredSum": 21572946.687025607
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "RS",
+      "n": 162,
+      "scoreSum": 16795.15409636448,
+      "scoreSquaredSum": 1793278.120305162
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "RU",
+      "n": 30475,
+      "scoreSum": 3016311.9371459736,
+      "scoreSquaredSum": 305000998.35546863
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "RW",
+      "n": 12,
+      "scoreSum": 1206.5404587351375,
+      "scoreSquaredSum": 123598.12793449355
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "SA",
+      "n": 993,
+      "scoreSum": 93912.70538481508,
+      "scoreSquaredSum": 9058165.733701825
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "SB",
+      "n": 1,
+      "scoreSum": 86.03441168437165,
+      "scoreSquaredSum": 7401.919993875945
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "SC",
+      "n": 23,
+      "scoreSum": 2396.118912784964,
+      "scoreSquaredSum": 252608.1960377794
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "SD",
+      "n": 90,
+      "scoreSum": 8710.777720101481,
+      "scoreSquaredSum": 865152.8581435906
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "SE",
+      "n": 1760,
+      "scoreSum": 179697.1101907792,
+      "scoreSquaredSum": 18778148.50779524
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "SG",
+      "n": 351,
+      "scoreSum": 36609.78453256334,
+      "scoreSquaredSum": 3928081.947457314
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "SI",
+      "n": 48,
+      "scoreSum": 4991.720784841151,
+      "scoreSquaredSum": 534446.1323057375
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "SK",
+      "n": 3044,
+      "scoreSum": 298458.5112376626,
+      "scoreSquaredSum": 29899378.75332226
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "SM",
+      "n": 2,
+      "scoreSum": 193.5843755621819,
+      "scoreSquaredSum": 18788.477988115068
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "SN",
+      "n": 63,
+      "scoreSum": 6011.02144509277,
+      "scoreSquaredSum": 584419.9015278403
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "SO",
+      "n": 11,
+      "scoreSum": 1017.0906083814696,
+      "scoreSquaredSum": 96213.46645779393
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "SR",
+      "n": 6,
+      "scoreSum": 583.7456216503838,
+      "scoreSquaredSum": 56901.94952255262
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "SS",
+      "n": 2,
+      "scoreSum": 187.63589640313648,
+      "scoreSquaredSum": 17622.8514344899
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "ST",
+      "n": 2,
+      "scoreSum": 189.43326943593962,
+      "scoreSquaredSum": 17992.793727820717
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "SV",
+      "n": 22,
+      "scoreSum": 1956.9163999765635,
+      "scoreSquaredSum": 177215.26738581064
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "SX",
+      "n": 4,
+      "scoreSum": 375.3600687813904,
+      "scoreSquaredSum": 35560.26651654405
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "SY",
+      "n": 256,
+      "scoreSum": 25279.77696984872,
+      "scoreSquaredSum": 2544818.8392614955
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "SZ",
+      "n": 2,
+      "scoreSum": 177.1494867431702,
+      "scoreSquaredSum": 15951.990086555405
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "TC",
+      "n": 2,
+      "scoreSum": 239.08507352547753,
+      "scoreSquaredSum": 28807.632676922312
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "TD",
+      "n": 1,
+      "scoreSum": 65.52961293519628,
+      "scoreSquaredSum": 4294.130171436644
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "TG",
+      "n": 43,
+      "scoreSum": 4308.619152092539,
+      "scoreSquaredSum": 440201.86036268313
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "TH",
+      "n": 3571,
+      "scoreSum": 346895.0231593836,
+      "scoreSquaredSum": 34356845.18903255
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "TJ",
+      "n": 123,
+      "scoreSum": 11652.911109720611,
+      "scoreSquaredSum": 1131753.8537429057
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "TL",
+      "n": 2,
+      "scoreSum": 185.46522323918344,
+      "scoreSquaredSum": 17452.785472299583
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "TM",
+      "n": 191,
+      "scoreSum": 18305.14116567298,
+      "scoreSquaredSum": 1784677.0673644608
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "TN",
+      "n": 420,
+      "scoreSum": 40252.48605038601,
+      "scoreSquaredSum": 3938709.364406064
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "TR",
+      "n": 9235,
+      "scoreSum": 888096.755307646,
+      "scoreSquaredSum": 87301273.38517347
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "TT",
+      "n": 10,
+      "scoreSum": 999.7110446541743,
+      "scoreSquaredSum": 102174.51962651502
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "TW",
+      "n": 3426,
+      "scoreSum": 346385.19794350077,
+      "scoreSquaredSum": 35904758.62692893
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "TZ",
+      "n": 14,
+      "scoreSum": 1369.308702316681,
+      "scoreSquaredSum": 136407.55342825438
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "UA",
+      "n": 37679,
+      "scoreSum": 3645433.646947457,
+      "scoreSquaredSum": 359469353.2645402
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "UG",
+      "n": 8,
+      "scoreSum": 815.1648197776149,
+      "scoreSquaredSum": 84828.91975091642
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "US",
+      "n": 5547,
+      "scoreSum": 568254.3905763141,
+      "scoreSquaredSum": 59518397.19594673
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "UY",
+      "n": 44,
+      "scoreSum": 4287.130832173545,
+      "scoreSquaredSum": 427515.33974037756
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "UZ",
+      "n": 1512,
+      "scoreSum": 145155.70942530612,
+      "scoreSquaredSum": 14253017.839883529
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "VA",
+      "n": 1,
+      "scoreSum": 86.03441168437165,
+      "scoreSquaredSum": 7401.919993875945
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "VE",
+      "n": 96,
+      "scoreSum": 9250.990285833186,
+      "scoreSquaredSum": 915201.2236154131
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "VN",
+      "n": 296,
+      "scoreSum": 31076.777046124014,
+      "scoreSquaredSum": 3343907.068955028
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "VU",
+      "n": 2,
+      "scoreSum": 208.79961371081473,
+      "scoreSquaredSum": 21942.626235821263
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "WF",
+      "n": 1,
+      "scoreSum": 110.20008149579365,
+      "scoreSquaredSum": 12144.057961679562
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "WS",
+      "n": 1,
+      "scoreSum": 93.0144608937362,
+      "scoreSquaredSum": 8651.68993535238
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "XK",
+      "n": 21,
+      "scoreSum": 2016.0628480570144,
+      "scoreSquaredSum": 198438.94252916233
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "YE",
+      "n": 193,
+      "scoreSum": 18450.282774474792,
+      "scoreSquaredSum": 1811904.892681078
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "YT",
+      "n": 2,
+      "scoreSum": 165.34640657432402,
+      "scoreSquaredSum": 13692.312527299775
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "ZA",
+      "n": 136,
+      "scoreSum": 13342.317387850366,
+      "scoreSquaredSum": 1330129.5422425324
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "ZM",
+      "n": 6,
+      "scoreSum": 614.5186426754245,
+      "scoreSquaredSum": 63889.96770241982
+    },
+    {
+      "file": "data/country-all.csv",
+      "category": "ZW",
+      "n": 11,
+      "scoreSum": 1056.4474717953512,
+      "scoreSquaredSum": 102518.14801739588
+    },
+    {
+      "file": "data/age-validated.csv",
+      "category": "Adult",
+      "n": 27185,
+      "scoreSum": 2664914.272895812,
+      "scoreSquaredSum": 267031543.1630927
+    },
+    {
+      "file": "data/age-validated.csv",
+      "category": "Senior",
+      "n": 2056,
+      "scoreSum": 188533.48382781143,
+      "scoreSquaredSum": 17758838.545795005
+    },
+    {
+      "file": "data/age-validated.csv",
+      "category": "Young Adult",
+      "n": 38461,
+      "scoreSum": 3969800.9584999173,
+      "scoreSquaredSum": 418311098.92664045
+    },
+    {
+      "file": "data/age-validated.csv",
+      "category": "Youth",
+      "n": 26522,
+      "scoreSum": 2598928.3095726115,
+      "scoreSquaredSum": 260136873.6815449
+    },
+    {
+      "file": "data/age-all.csv",
+      "category": "Adult",
+      "n": 46262,
+      "scoreSum": 4725567.538820708,
+      "scoreSquaredSum": 491271294.7024905
+    },
+    {
+      "file": "data/age-all.csv",
+      "category": "Senior",
+      "n": 5055,
+      "scoreSum": 470517.1537005169,
+      "scoreSquaredSum": 44908992.81670309
+    },
+    {
+      "file": "data/age-all.csv",
+      "category": "Young Adult",
+      "n": 80717,
+      "scoreSum": 8332336.769013458,
+      "scoreSquaredSum": 879321179.6325092
+    },
+    {
+      "file": "data/age-all.csv",
+      "category": "Youth",
+      "n": 84739,
+      "scoreSum": 8148783.506832415,
+      "scoreSquaredSum": 800715349.3669909
+    },
+    {
+      "file": "data/gender-validated.csv",
+      "category": "female",
+      "n": 41425,
+      "scoreSum": 4025509.742846053,
+      "scoreSquaredSum": 399174394.44207454
+    },
+    {
+      "file": "data/gender-validated.csv",
+      "category": "male",
+      "n": 52338,
+      "scoreSum": 5348807.037624431,
+      "scoreSquaredSum": 558971230.2250595
+    },
+    {
+      "file": "data/gender-all.csv",
+      "category": "female",
+      "n": 89334,
+      "scoreSum": 8873790.554776957,
+      "scoreSquaredSum": 896934143.8459537
+    },
+    {
+      "file": "data/gender-all.csv",
+      "category": "male",
+      "n": 126313,
+      "scoreSum": 12688333.905915733,
+      "scoreSquaredSum": 1307234426.5304375
+    },
+    {
+      "file": "data/education-level-validated.csv",
+      "category": "Bachelor",
+      "n": 26184,
+      "scoreSum": 2661068.573939699,
+      "scoreSquaredSum": 275956739.38803613
+    },
+    {
+      "file": "data/education-level-validated.csv",
+      "category": "Doctorate",
+      "n": 1490,
+      "scoreSum": 158312.9995392022,
+      "scoreSquaredSum": 17180175.613987356
+    },
+    {
+      "file": "data/education-level-validated.csv",
+      "category": "Master",
+      "n": 12756,
+      "scoreSum": 1307432.497465886,
+      "scoreSquaredSum": 136648277.3510997
+    },
+    {
+      "file": "data/education-level-validated.csv",
+      "category": "Post Secondary",
+      "n": 14286,
+      "scoreSum": 1403463.7370707507,
+      "scoreSquaredSum": 141167051.5056813
+    },
+    {
+      "file": "data/education-level-validated.csv",
+      "category": "Primary or Secondary",
+      "n": 28668,
+      "scoreSum": 2804355.7798418244,
+      "scoreSquaredSum": 280761544.48525506
+    },
+    {
+      "file": "data/education-level-validated.csv",
+      "category": "Short-cycle tertiary",
+      "n": 10220,
+      "scoreSum": 1023567.3359583223,
+      "scoreSquaredSum": 104759509.97072501
+    },
+    {
+      "file": "data/education-level-all.csv",
+      "category": "Bachelor",
+      "n": 48702,
+      "scoreSum": 4981481.966925369,
+      "scoreSquaredSum": 519926606.6816295
+    },
+    {
+      "file": "data/education-level-all.csv",
+      "category": "Doctorate",
+      "n": 4394,
+      "scoreSum": 428306.3560237873,
+      "scoreSquaredSum": 43145343.047370344
+    },
+    {
+      "file": "data/education-level-all.csv",
+      "category": "Master",
+      "n": 22021,
+      "scoreSum": 2267411.059620919,
+      "scoreSquaredSum": 238299229.64910224
+    },
+    {
+      "file": "data/education-level-all.csv",
+      "category": "Post Secondary",
+      "n": 33551,
+      "scoreSum": 3323373.50814185,
+      "scoreSquaredSum": 336816237.34904236
+    },
+    {
+      "file": "data/education-level-all.csv",
+      "category": "Primary or Secondary",
+      "n": 86105,
+      "scoreSum": 8459949.156361047,
+      "scoreSquaredSum": 849699349.3608259
+    },
+    {
+      "file": "data/education-level-all.csv",
+      "category": "Short-cycle tertiary",
+      "n": 20478,
+      "scoreSum": 2061771.655856748,
+      "scoreSquaredSum": 212170392.39699155
+    },
+    {
+      "file": "data/study-area-validated.csv",
+      "category": "Anthropology",
+      "n": 259,
+      "scoreSum": 26164.63470088286,
+      "scoreSquaredSum": 2706355.6232158826
+    },
+    {
+      "file": "data/study-area-validated.csv",
+      "category": "Biology",
+      "n": 2004,
+      "scoreSum": 202590.80516046897,
+      "scoreSquaredSum": 20911965.430306286
+    },
+    {
+      "file": "data/study-area-validated.csv",
+      "category": "Business",
+      "n": 4058,
+      "scoreSum": 395145.28540066775,
+      "scoreSquaredSum": 39330383.79710006
+    },
+    {
+      "file": "data/study-area-validated.csv",
+      "category": "Chemistry",
+      "n": 1422,
+      "scoreSum": 147647.75861955617,
+      "scoreSquaredSum": 15651086.430231303
+    },
+    {
+      "file": "data/study-area-validated.csv",
+      "category": "Computer Science",
+      "n": 5566,
+      "scoreSum": 590321.6260717305,
+      "scoreSquaredSum": 63789321.05615262
+    },
+    {
+      "file": "data/study-area-validated.csv",
+      "category": "Earth Science",
+      "n": 613,
+      "scoreSum": 61454.17310553824,
+      "scoreSquaredSum": 6296434.580510798
+    },
+    {
+      "file": "data/study-area-validated.csv",
+      "category": "Economics",
+      "n": 6674,
+      "scoreSum": 658424.6275082646,
+      "scoreSquaredSum": 66257924.18970811
+    },
+    {
+      "file": "data/study-area-validated.csv",
+      "category": "Engineering and Technology",
+      "n": 9349,
+      "scoreSum": 966380.7712569651,
+      "scoreSquaredSum": 101971326.72453195
+    },
+    {
+      "file": "data/study-area-validated.csv",
+      "category": "Geography",
+      "n": 652,
+      "scoreSum": 63215.244717992304,
+      "scoreSquaredSum": 6276715.3930596225
+    },
+    {
+      "file": "data/study-area-validated.csv",
+      "category": "History",
+      "n": 1313,
+      "scoreSum": 126990.41421057901,
+      "scoreSquaredSum": 12573500.696158482
+    },
+    {
+      "file": "data/study-area-validated.csv",
+      "category": "Languages and Literature",
+      "n": 3783,
+      "scoreSum": 368753.32613910193,
+      "scoreSquaredSum": 36666408.732562974
+    },
+    {
+      "file": "data/study-area-validated.csv",
+      "category": "Law",
+      "n": 2910,
+      "scoreSum": 288565.776485699,
+      "scoreSquaredSum": 29201118.96623166
+    },
+    {
+      "file": "data/study-area-validated.csv",
+      "category": "Mathematics",
+      "n": 2597,
+      "scoreSum": 269398.57716110407,
+      "scoreSquaredSum": 28584577.4120843
+    },
+    {
+      "file": "data/study-area-validated.csv",
+      "category": "Medicine and Health",
+      "n": 4264,
+      "scoreSum": 420505.3386685013,
+      "scoreSquaredSum": 42419865.0523596
+    },
+    {
+      "file": "data/study-area-validated.csv",
+      "category": "No diploma",
+      "n": 33284,
+      "scoreSum": 3297912.8742306936,
+      "scoreSquaredSum": 334114801.5804419
+    },
+    {
+      "file": "data/study-area-validated.csv",
+      "category": "Performing Arts",
+      "n": 1902,
+      "scoreSum": 184570.39786820914,
+      "scoreSquaredSum": 18330438.36648021
+    },
+    {
+      "file": "data/study-area-validated.csv",
+      "category": "Philosophy",
+      "n": 1057,
+      "scoreSum": 106224.13353804122,
+      "scoreSquaredSum": 10934678.602770668
+    },
+    {
+      "file": "data/study-area-validated.csv",
+      "category": "Physics",
+      "n": 1502,
+      "scoreSum": 160849.89228028356,
+      "scoreSquaredSum": 17578325.36890905
+    },
+    {
+      "file": "data/study-area-validated.csv",
+      "category": "Political Science",
+      "n": 725,
+      "scoreSum": 72367.11421807986,
+      "scoreSquaredSum": 7361438.432011561
+    },
+    {
+      "file": "data/study-area-validated.csv",
+      "category": "Psychology",
+      "n": 2024,
+      "scoreSum": 195718.52230288644,
+      "scoreSquaredSum": 19361525.341997266
+    },
+    {
+      "file": "data/study-area-validated.csv",
+      "category": "Social Work",
+      "n": 1839,
+      "scoreSum": 174620.2051999611,
+      "scoreSquaredSum": 16929804.716509543
+    },
+    {
+      "file": "data/study-area-validated.csv",
+      "category": "Sociology",
+      "n": 1044,
+      "scoreSum": 104297.42120112709,
+      "scoreSquaredSum": 10622252.682567833
+    },
+    {
+      "file": "data/study-area-validated.csv",
+      "category": "Space Sciences",
+      "n": 191,
+      "scoreSum": 18918.357756313082,
+      "scoreSquaredSum": 1916758.75488525
+    },
+    {
+      "file": "data/study-area-validated.csv",
+      "category": "Theology",
+      "n": 557,
+      "scoreSum": 55116.44780645859,
+      "scoreSquaredSum": 5590455.419717991
+    },
+    {
+      "file": "data/study-area-validated.csv",
+      "category": "Visual Arts",
+      "n": 3148,
+      "scoreSum": 313967.44208130403,
+      "scoreSquaredSum": 31959214.416471027
+    },
+    {
+      "file": "data/study-area-all.csv",
+      "category": "Anthropology",
+      "n": 995,
+      "scoreSum": 92755.47631326935,
+      "scoreSquaredSum": 8925101.290469114
+    },
+    {
+      "file": "data/study-area-all.csv",
+      "category": "Biology",
+      "n": 5213,
+      "scoreSum": 507270.19882917585,
+      "scoreSquaredSum": 50805743.94366535
+    },
+    {
+      "file": "data/study-area-all.csv",
+      "category": "Business",
+      "n": 8269,
+      "scoreSum": 814540.5688270953,
+      "scoreSquaredSum": 81743885.51564254
+    },
+    {
+      "file": "data/study-area-all.csv",
+      "category": "Chemistry",
+      "n": 3855,
+      "scoreSum": 379194.8243587348,
+      "scoreSquaredSum": 38448449.5833336
+    },
+    {
+      "file": "data/study-area-all.csv",
+      "category": "Computer Science",
+      "n": 10281,
+      "scoreSum": 1091014.4663641653,
+      "scoreSquaredSum": 118149270.46952163
+    },
+    {
+      "file": "data/study-area-all.csv",
+      "category": "Earth Science",
+      "n": 1233,
+      "scoreSum": 122879.79908451917,
+      "scoreSquaredSum": 12524178.921375977
+    },
+    {
+      "file": "data/study-area-all.csv",
+      "category": "Economics",
+      "n": 12479,
+      "scoreSum": 1251559.8474745126,
+      "scoreSquaredSum": 127771861.23781711
+    },
+    {
+      "file": "data/study-area-all.csv",
+      "category": "Engineering and Technology",
+      "n": 16445,
+      "scoreSum": 1712077.2072603318,
+      "scoreSquaredSum": 181783435.75792634
+    },
+    {
+      "file": "data/study-area-all.csv",
+      "category": "Geography",
+      "n": 1818,
+      "scoreSum": 174080.151602278,
+      "scoreSquaredSum": 17074095.471903116
+    },
+    {
+      "file": "data/study-area-all.csv",
+      "category": "History",
+      "n": 4080,
+      "scoreSum": 386967.34023941937,
+      "scoreSquaredSum": 37579651.9865868
+    },
+    {
+      "file": "data/study-area-all.csv",
+      "category": "Languages and Literature",
+      "n": 8405,
+      "scoreSum": 822080.7471736768,
+      "scoreSquaredSum": 82016284.04569657
+    },
+    {
+      "file": "data/study-area-all.csv",
+      "category": "Law",
+      "n": 6620,
+      "scoreSum": 648537.526873695,
+      "scoreSquaredSum": 65033429.514396794
+    },
+    {
+      "file": "data/study-area-all.csv",
+      "category": "Mathematics",
+      "n": 6357,
+      "scoreSum": 653374.1576549377,
+      "scoreSquaredSum": 68670862.65868221
+    },
+    {
+      "file": "data/study-area-all.csv",
+      "category": "Medicine and Health",
+      "n": 7941,
+      "scoreSum": 799128.6450825869,
+      "scoreSquaredSum": 81921139.55754144
+    },
+    {
+      "file": "data/study-area-all.csv",
+      "category": "No diploma",
+      "n": 86457,
+      "scoreSum": 8644481.29897945,
+      "scoreSquaredSum": 882617045.2766453
+    },
+    {
+      "file": "data/study-area-all.csv",
+      "category": "Performing Arts",
+      "n": 4717,
+      "scoreSum": 455354.76702635904,
+      "scoreSquaredSum": 45027829.610415995
+    },
+    {
+      "file": "data/study-area-all.csv",
+      "category": "Philosophy",
+      "n": 3310,
+      "scoreSum": 314541.8630718924,
+      "scoreSquaredSum": 30851517.27401062
+    },
+    {
+      "file": "data/study-area-all.csv",
+      "category": "Physics",
+      "n": 2972,
+      "scoreSum": 316435.34314521507,
+      "scoreSquaredSum": 34464474.65332559
+    },
+    {
+      "file": "data/study-area-all.csv",
+      "category": "Political Science",
+      "n": 1625,
+      "scoreSum": 161215.35760758957,
+      "scoreSquaredSum": 16364978.977952378
+    },
+    {
+      "file": "data/study-area-all.csv",
+      "category": "Psychology",
+      "n": 4559,
+      "scoreSum": 442614.9814677733,
+      "scoreSquaredSum": 43930173.68413733
+    },
+    {
+      "file": "data/study-area-all.csv",
+      "category": "Social Work",
+      "n": 4332,
+      "scoreSum": 414782.7486952023,
+      "scoreSquaredSum": 40655086.0374137
+    },
+    {
+      "file": "data/study-area-all.csv",
+      "category": "Sociology",
+      "n": 2579,
+      "scoreSum": 251099.12052687068,
+      "scoreSquaredSum": 25059887.947330188
+    },
+    {
+      "file": "data/study-area-all.csv",
+      "category": "Space Sciences",
+      "n": 617,
+      "scoreSum": 59424.552842480836,
+      "scoreSquaredSum": 5871105.284952476
+    },
+    {
+      "file": "data/study-area-all.csv",
+      "category": "Theology",
+      "n": 2027,
+      "scoreSum": 190553.68966469387,
+      "scoreSquaredSum": 18478223.980003864
+    },
+    {
+      "file": "data/study-area-all.csv",
+      "category": "Visual Arts",
+      "n": 6131,
+      "scoreSum": 616620.0534895043,
+      "scoreSquaredSum": 63290969.89963979
+    }
+  ]
+}

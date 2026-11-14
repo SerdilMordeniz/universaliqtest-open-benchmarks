@@ -1,0 +1,56 @@
+{
+  "checkedAt": "2026-11-14T09:43:30.228Z",
+  "status": "passed",
+  "checks": [
+    {
+      "file": "data/country-validated.csv",
+      "rows": 192,
+      "fieldsVerified": 2688
+    },
+    {
+      "file": "data/country-all.csv",
+      "rows": 216,
+      "fieldsVerified": 3024
+    },
+    {
+      "file": "data/age-validated.csv",
+      "rows": 4,
+      "fieldsVerified": 44
+    },
+    {
+      "file": "data/age-all.csv",
+      "rows": 4,
+      "fieldsVerified": 44
+    },
+    {
+      "file": "data/gender-validated.csv",
+      "rows": 2,
+      "fieldsVerified": 28
+    },
+    {
+      "file": "data/gender-all.csv",
+      "rows": 2,
+      "fieldsVerified": 28
+    },
+    {
+      "file": "data/education-level-validated.csv",
+      "rows": 6,
+      "fieldsVerified": 84
+    },
+    {
+      "file": "data/education-level-all.csv",
+      "rows": 6,
+      "fieldsVerified": 84
+    },
+    {
+      "file": "data/study-area-validated.csv",
+      "rows": 25,
+      "fieldsVerified": 350
+    },
+    {
+      "file": "data/study-area-all.csv",
+      "rows": 25,
+      "fieldsVerified": 350
+    }
+  ]
+}

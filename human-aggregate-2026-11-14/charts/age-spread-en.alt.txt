@@ -1,0 +1,3 @@
+Age bands: spread exceeds the group differences
+
+Four age bands, quality-screened n=94,224. 12-18: group score 98, p25–p75 89.6–108.1, n=26522; 19-35: group score 103.2, p25–p75 92.4–113.5, n=38461; 36-65: group score 98, p25–p75 86.8–108.1, n=27185; 66-100: group score 91.7, p25–p75 80.9–102.9, n=2056

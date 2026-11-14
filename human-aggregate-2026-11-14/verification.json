@@ -1,0 +1,125 @@
+{
+  "checkedAt": "2026-11-14T09:42:31.365Z",
+  "status": "passed",
+  "checks": {
+    "files": 10,
+    "rows": 482,
+    "intervals": 437,
+    "screeningRates": 474,
+    "scoreMoments": 482
+  },
+  "overviewTotals": {
+    "tested": 216773,
+    "validated": 94224
+  },
+  "tables": [
+    {
+      "file": "data/country-validated.csv",
+      "dimension": "country",
+      "view": "validated",
+      "rows": 192,
+      "includedN": 94092,
+      "overviewN": 94224,
+      "differenceFromOverview": 132,
+      "note": "Dimension-specific missing or unsupported categories are excluded. All tables share the same transaction."
+    },
+    {
+      "file": "data/country-all.csv",
+      "dimension": "country",
+      "view": "all",
+      "rows": 216,
+      "includedN": 216556,
+      "overviewN": 216773,
+      "differenceFromOverview": 217,
+      "note": "Dimension-specific missing or unsupported categories are excluded. All tables share the same transaction."
+    },
+    {
+      "file": "data/age-validated.csv",
+      "dimension": "age",
+      "view": "validated",
+      "rows": 4,
+      "includedN": 94224,
+      "overviewN": 94224,
+      "differenceFromOverview": 0,
+      "note": "Dimension-specific missing or unsupported categories are excluded. All tables share the same transaction."
+    },
+    {
+      "file": "data/age-all.csv",
+      "dimension": "age",
+      "view": "all",
+      "rows": 4,
+      "includedN": 216773,
+      "overviewN": 216773,
+      "differenceFromOverview": 0,
+      "note": "Dimension-specific missing or unsupported categories are excluded. All tables share the same transaction."
+    },
+    {
+      "file": "data/gender-validated.csv",
+      "dimension": "gender",
+      "view": "validated",
+      "rows": 2,
+      "includedN": 93763,
+      "overviewN": 94224,
+      "differenceFromOverview": 461,
+      "note": "Dimension-specific missing or unsupported categories are excluded. All tables share the same transaction."
+    },
+    {
+      "file": "data/gender-all.csv",
+      "dimension": "gender",
+      "view": "all",
+      "rows": 2,
+      "includedN": 215647,
+      "overviewN": 216773,
+      "differenceFromOverview": 1126,
+      "note": "Dimension-specific missing or unsupported categories are excluded. All tables share the same transaction."
+    },
+    {
+      "file": "data/education-level-validated.csv",
+      "dimension": "education-level",
+      "view": "validated",
+      "rows": 6,
+      "includedN": 93604,
+      "overviewN": 94224,
+      "differenceFromOverview": 620,
+      "note": "Dimension-specific missing or unsupported categories are excluded. All tables share the same transaction."
+    },
+    {
+      "file": "data/education-level-all.csv",
+      "dimension": "education-level",
+      "view": "all",
+      "rows": 6,
+      "includedN": 215251,
+      "overviewN": 216773,
+      "differenceFromOverview": 1522,
+      "note": "Dimension-specific missing or unsupported categories are excluded. All tables share the same transaction."
+    },
+    {
+      "file": "data/study-area-validated.csv",
+      "dimension": "study-area",
+      "view": "validated",
+      "rows": 25,
+      "includedN": 92737,
+      "overviewN": 94224,
+      "differenceFromOverview": 1487,
+      "note": "Dimension-specific missing or unsupported categories are excluded. All tables share the same transaction."
+    },
+    {
+      "file": "data/study-area-all.csv",
+      "dimension": "study-area",
+      "view": "all",
+      "rows": 25,
+      "includedN": 213317,
+      "overviewN": 216773,
+      "differenceFromOverview": 3456,
+      "note": "Dimension-specific missing or unsupported categories are excluded. All tables share the same transaction."
+    }
+  ],
+  "errors": [],
+  "notes": [
+    "Age CSVs have no CI fields. Age charts show exported interquartile ranges, not confidence intervals.",
+    "Means and sample SDs reproduce from aggregate score moments. Intervals use the exported sample SD; they omit selection bias and do not establish representative population coverage.",
+    "Country/education/study-area use age-normalized percentile columns; age/default-gender use global percentile columns. They are not interchangeable estimands."
+  ],
+  "reviewScope": "Technical checks against public aggregates and documented code. Not an independent human review or psychometric validation.",
+  "independentReview": "pending"
+}

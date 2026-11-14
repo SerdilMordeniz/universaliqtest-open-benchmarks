@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite this dated dataset when reusing its files."
+type: dataset
+title: "Online matrix-reasoning test performance: aggregate snapshot, 14 November 2026"
+authors:
+  - name: "UniversalIQTest"
+    website: "https://www.universaliqtest.com"
+version: "2026-11-14"
+date-released: 2026-11-14
+license: CC-BY-4.0
+url: "https://github.com/SerdilMordeniz/universaliqtest-aggregate-data"
+doi: "10.5281/zenodo.24217581"

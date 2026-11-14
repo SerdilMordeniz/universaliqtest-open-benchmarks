@@ -1,0 +1,328 @@
+{
+  "version": "2026-11-14",
+  "sourceHumanArchiveSha256": "2bf819618ae6ed250ef5b2d09ea2dd17247fc1ef88ae82ace072ad546ea051b2",
+  "studyReportUrl": "https://www.universaliqtest.com/ai-iq-test",
+  "humanDoi": "10.5281/zenodo.24217581",
+  "files": [
+    {
+      "path": "ai-visual-reasoning-2026-11-14/manifest.json",
+      "bytes": 1022,
+      "sha256": "0a3b05e0c8365c587d1bd09417a52295d53e2d2a70010810a600acf7c8a29fca"
+    },
+    {
+      "path": "ai-visual-reasoning-2026-11-14/measurements.json",
+      "bytes": 114178,
+      "sha256": "2f21c4c308bf52d660b729d0646a51203fcea007a69542bd60da878514b7398c"
+    },
+    {
+      "path": "ai-visual-reasoning-2026-11-14/methods.json",
+      "bytes": 3696,
+      "sha256": "a7ce74f1ed9824e3eadce5f69a7a0efee9e41876960d7ebd91f42004b67ed78f"
+    },
+    {
+      "path": "ai-visual-reasoning-2026-11-14/outcomes.png",
+      "bytes": 59982,
+      "sha256": "6fb52732249a34d646a1d218edfb11ea4a7efd8465622b46bdcfa6995d7c2025"
+    },
+    {
+      "path": "ai-visual-reasoning-2026-11-14/outcomes.svg",
+      "bytes": 17552,
+      "sha256": "e015c253ae36f8f694b34728a6b335f339f261bc3e5fc0f00832bb5e36ba6ac0"
+    },
+    {
+      "path": "ai-visual-reasoning-2026-11-14/report.md",
+      "bytes": 5237,
+      "sha256": "f79cc3b93fb5b2e5261f14059d643dea4061334eb9e93d23aa5e0b9108135372"
+    },
+    {
+      "path": "ai-visual-reasoning-2026-11-14/results.json",
+      "bytes": 7539,
+      "sha256": "c0ee8254573ede90cd86d68d0e28a492b6b83b891f1516b95f9db06a41914d0f"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/.gitattributes",
+      "bytes": 65,
+      "sha256": "9d46f1be3b8a2f3840fff16b3fdba9f264fe30157bc344898990a3f2ad7f6b84"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/CHANGELOG.md",
+      "bytes": 1602,
+      "sha256": "0dfae33af6205d3ac662c032008a3cb3fd38884f90e117f31f56607dd3210d4c"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/chart-inputs.json",
+      "bytes": 5599,
+      "sha256": "16da14a2e8878254172da9a70851b8dc08fd5603e7eb66444b0837f555c33163"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/charts/age-spread-en.alt.txt",
+      "bytes": 320,
+      "sha256": "cf2464811470db411a0906587019a058840f6e77cee90eb9e85b55f2d5fcf340"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/charts/age-spread-en.pdf",
+      "bytes": 27650,
+      "sha256": "300ffc480d635ffcfe798d54c81afaf9834e9086f697ed66899fa998fa5045e7"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/charts/age-spread-en.png",
+      "bytes": 127895,
+      "sha256": "9567ea1ff5f0a3f8c2e1769ee2e19b1d28b180fa8dd0dd21cd6d6a98bef3dca1"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/charts/age-spread-en.svg",
+      "bytes": 9651,
+      "sha256": "637e5e5bdd170424aae79bf3cba2e55a14da553a26c76577d8f81a88b2bdf90e"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/charts/age-spread-fr.alt.txt",
+      "bytes": 328,
+      "sha256": "695e4d95591e87c078c6ef4239b91993d2ea01736e8c85a79ef004bdaf018f7d"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/charts/age-spread-fr.pdf",
+      "bytes": 29136,
+      "sha256": "9de66c5b549e9312736ef6f608192f0aceba97bd10e8287c1b0c78b1d13d6b11"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/charts/age-spread-fr.png",
+      "bytes": 131322,
+      "sha256": "ab79535d0c77f302e15d9ca8beaa49b33a953d36440a0f04a08a8b9ccef865d6"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/charts/age-spread-fr.svg",
+      "bytes": 9711,
+      "sha256": "24fba9b9e70623d22dbd7b9337a1be326f1229fdf3acf1679c3ffc38056da2cf"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/charts/age-spread-ru.alt.txt",
+      "bytes": 361,
+      "sha256": "31914157411f460400afa8250c92f19588c0f117b17bbf86fc254a9b28d7554c"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/charts/age-spread-ru.pdf",
+      "bytes": 39901,
+      "sha256": "237e531ce04c50cd8fccc086fb5a81c2fc825982fdce9ab707ca16f18a471522"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/charts/age-spread-ru.png",
+      "bytes": 134160,
+      "sha256": "2c6ccd87943f447d23d65c8a9d06e269ec41ede90e1d8983c3c8143947085b31"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/charts/age-spread-ru.svg",
+      "bytes": 10057,
+      "sha256": "d5709b7c04ed897ccd72c4b1b06e0cf0e6776f3e2840c82138dae6d01ed5a6e1"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/charts/country-samples-en.alt.txt",
+      "bytes": 632,
+      "sha256": "6f9f141ec9f12850cc69346701dbc04dec5964ab568c1323500b6fb10ef59a72"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/charts/country-samples-en.pdf",
+      "bytes": 29889,
+      "sha256": "a5cca9621130f82164e7cb880d6530d953254e9f0875921ad2c419d1804b7451"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/charts/country-samples-en.png",
+      "bytes": 152017,
+      "sha256": "7168feb530b305a8a09530ee5285bb4caaae83b2176233ea64713b20516efdff"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/charts/country-samples-en.svg",
+      "bytes": 18197,
+      "sha256": "ab3144c0493df0db1265aa575209a7b4817e1a0c95d6ad529d40c65a32a7fb42"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/charts/country-samples-it.alt.txt",
+      "bytes": 633,
+      "sha256": "a1ab653e29c6f16304dd287ef8a23e5a6a37434a662ee2e74def7a65d159b992"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/charts/country-samples-it.pdf",
+      "bytes": 29373,
+      "sha256": "d0585d9b292c42f561240fd27512341f79982f7530951b2d1cae49719a16c4e7"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/charts/country-samples-it.png",
+      "bytes": 150110,
+      "sha256": "2c14428fdcc715c57400bf64ffd3092a12e07c10663180c2ffa7289b6fc1dbfa"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/charts/country-samples-it.svg",
+      "bytes": 18248,
+      "sha256": "dbbca3acd664df3ec9348ba949f00d9a9f3a2f14254d9fd9d780692a678536cb"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/charts/country-samples-pl.alt.txt",
+      "bytes": 629,
+      "sha256": "49bcb46ad652367cdd920a87e3d0a820d16ed796f2cce5d18d74477a3f48ab56"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/charts/country-samples-pl.pdf",
+      "bytes": 35708,
+      "sha256": "dadf0fac3e20bc5484759656104f68ec02f2917f5ee35cce492863d509a235f7"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/charts/country-samples-pl.png",
+      "bytes": 155928,
+      "sha256": "02af11168a1225264853bf97eadd678aa3dac0f0eec033ff85ea3528511eeb18"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/charts/country-samples-pl.svg",
+      "bytes": 18219,
+      "sha256": "47f9b9e65e5c666388b095b91bb17e289494786368bc6fa0cc5507b92339d71d"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/charts/country-screening-en.alt.txt",
+      "bytes": 273,
+      "sha256": "6c6f6c969d53d45b715966e6444e6fbc889060b6b2803c027f8aeb7f34b4ab99"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/charts/country-screening-en.pdf",
+      "bytes": 28410,
+      "sha256": "326e9ffc45ed95c140ebc68d23b3883865f3453ff9c207b02d98371fdd018187"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/charts/country-screening-en.png",
+      "bytes": 175166,
+      "sha256": "f81f67d19c59377b8010265932ce8224bb23c83bbbbb8e85b8ff431d0a3bf4f1"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/charts/country-screening-en.svg",
+      "bytes": 12861,
+      "sha256": "c8fbdf4d057dc4b5c780ca4c546c8be4aabd7e02b0e69185c71f6f50dc67cf26"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/charts/runtime.json",
+      "bytes": 125,
+      "sha256": "4e642e0f1374342301ea36ee35886ebca80781bfb3f1897d57216b6d33179f6d"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/CITATION.cff",
+      "bytes": 441,
+      "sha256": "dbdd88de476b82e513acb773f3f8d116467098efc46185e747236f75d8f57d06"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/data-dictionary.md",
+      "bytes": 3054,
+      "sha256": "cb738753307fe8b5a37591337bb3867aad936606eec92a61d3c49c8f89372f43"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/data/age-all.csv",
+      "bytes": 482,
+      "sha256": "7195a636fc4d1ba53f2bf9ee74d87f9c6c8f8f086b24408ed4e121a406ba21b4"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/data/age-validated.csv",
+      "bytes": 474,
+      "sha256": "afd26a134facd3903e425120291dd0395147c893206373efcba68e0b433e1bf5"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/data/country-all.csv",
+      "bytes": 26632,
+      "sha256": "81ced14aa6687cebaffa1cac5a9c49073ebb2a3a4445b3fdfad5fb94df64d230"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/data/country-validated.csv",
+      "bytes": 23534,
+      "sha256": "37d5d2b20e10ca21df6d261e4f93ef97bbfb3ce90b3c233efa26792c22771ea4"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/data/education-level-all.csv",
+      "bytes": 1009,
+      "sha256": "3a73f2bff398687c9e2d201fe1da3ff595c9d5c1f64a968c888a1c9040685a1b"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/data/education-level-validated.csv",
+      "bytes": 1012,
+      "sha256": "32e5110c9d9a453725b0fe250f553932a7c2870d1afbbbb2403ebca092c61584"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/data/gender-all.csv",
+      "bytes": 394,
+      "sha256": "4416ee7b6a6a80fd187caedd548588494c62204fd65d388e67e349c7b5ab86fa"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/data/gender-validated.csv",
+      "bytes": 397,
+      "sha256": "7e85dd0f0fdc2df477569f94f84f9b929992c601960589632754d69919962c68"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/data/study-area-all.csv",
+      "bytes": 3701,
+      "sha256": "b8bed0818fdc5e4396f501c181b9fb6fc68fe6c1595a38e6f9bf1df01705c554"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/data/study-area-validated.csv",
+      "bytes": 3715,
+      "sha256": "3d73a80f4af7a1cfd26e4427941a9773f88fe16a3796e7a264bfc8a90b92b99a"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/LICENSE",
+      "bytes": 18656,
+      "sha256": "9e5f1b3c610b9c2da5c313bf81d577a7d1acec686bdb0384edefa6df0f90cd94"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/live-comparison.json",
+      "bytes": 1090,
+      "sha256": "5f922b0993ec42aa748bb9e5c8dadb63c8bb63751e2615d60a870692d3739069"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/manifest.json",
+      "bytes": 9086,
+      "sha256": "a3052e8a0fd26e3fe000e1c5625cb4bf0d01db4bf6bdfb259d46a2c04a8f2756"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/methodology-review.md",
+      "bytes": 4001,
+      "sha256": "c9a76fd5a183bedd96e1687297be3b1aba26dc9a9bffe4d0a5efb35ae29bdf6d"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/overview-evidence.json",
+      "bytes": 434,
+      "sha256": "60f209c830a07feb0d2a2f810e53d674e54fb6b11a770515c33c17c69ec0c5ba"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/README.md",
+      "bytes": 4859,
+      "sha256": "77ce83704434b6ba64a97cd3c65ad6dd99e6b72ae0cffe43057019abf024e0e3"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/score-moments.json",
+      "bytes": 84880,
+      "sha256": "6ecec738250f920604e73ac9d831aba081829850c0087abb73448d6373b2902e"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/scripts/capture-dataset-release.mjs",
+      "bytes": 4873,
+      "sha256": "f2ddcedb2e816d64cdfe67f15c73a9f56c3aad75a94ba5c3d446127a81d3c64e"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/scripts/render-dataset-charts.py",
+      "bytes": 13584,
+      "sha256": "738ab4b251c0d485ea8095607e342df7176baedafdb25b63056c2fc780a20514"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/scripts/verify-dataset-release.mjs",
+      "bytes": 8118,
+      "sha256": "f9bdc031ecedece68cef195bc8043f94c7dd1b002174144577fede1b04282c41"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/SHA256SUMS",
+      "bytes": 5121,
+      "sha256": "5347cc2eb04f52e21f68f0f498a62b515155b17f1c6de6b70ba2d2e2973ed6a5"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/teaching-example.md",
+      "bytes": 1770,
+      "sha256": "8840a53bef8e972bffcf22ad477097098aa7d6231ffed4740ef66e261ea7c926"
+    },
+    {
+      "path": "human-aggregate-2026-11-14/verification.json",
+      "bytes": 4356,
+      "sha256": "2f6e3c9185450acb40d0d28e06cf5dbc5145d96dcf8ce3ea364c41dbff77b644"
+    }
+  ]
+}
